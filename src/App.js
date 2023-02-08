@@ -25,6 +25,7 @@ function App() {
       <Route path="/location" element={<Location />} />
     
    </Routes>
+   <About/>
    <Footer/>
    </BrowserRouter>
 
