@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/abhijeetkumarsinghofficial/capstone-project/static/css/main.8e2be5b4.css",
+    "main.js": "/abhijeetkumarsinghofficial/capstone-project/static/js/main.641f6314.js",
+    "index.html": "/abhijeetkumarsinghofficial/capstone-project/index.html",
+    "main.8e2be5b4.css.map": "/abhijeetkumarsinghofficial/capstone-project/static/css/main.8e2be5b4.css.map",
+    "main.641f6314.js.map": "/abhijeetkumarsinghofficial/capstone-project/static/js/main.641f6314.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e2be5b4.css",
+    "static/js/main.641f6314.js"
+  ]
+}
